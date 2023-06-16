@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Fmoscovo
-- 👀 I’m interested in learning coding! 
+- 👋 Hi, I’m Filipe. 
+- 👀 I’m interested in learning to code! 
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything that comes up! 
-- 📫 How to reach me my dream of becoming a software developer! 
+- 📫 How to reach me => LinkedIn link
 
 <!---
 Fmoscovo/Fmoscovo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
