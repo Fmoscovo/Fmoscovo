@@ -1,11 +1,8 @@
 Transitioning Careers to Thrive in Tech | Full Stack Developer Student | Cybersecurity Enthusiast
 
 
-[![My Skills]<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css&perline=5" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=git,js,html,css&perline=5" />
 <!---
 Fmoscovo/Fmoscovo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
