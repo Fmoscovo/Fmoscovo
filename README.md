@@ -1,9 +1,9 @@
 Transitioning Careers to Thrive in Tech | Full Stack Developer Student | Cybersecurity Enthusiast
 
-My skills so far
+
 [![My Skills]<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css&perline=5" />
   </a>
 </p>
 <!---
