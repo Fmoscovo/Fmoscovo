@@ -4,6 +4,12 @@ I'm Filipe, a passionate developer from Calgary - Canada. Welcome to my GitHub p
 I am transitioning careers to thrive in tech + Full Stack Developer Student + Cybersecurity Enthusiast.
 
 ## 🚀 About Me
+const aboutMe = [
+  "I am",
+  "b3com1ng",
+  "4 d3v3lop3r",
+  "0n3 l1n3",
+  "4t 4 t1m3"]:
 
 - 🔭 I'm currently working on my prep work for coding boot camp. 
 - 🌱 I'm currently learning JS and Flutter.
