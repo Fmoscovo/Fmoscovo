@@ -52,7 +52,7 @@ const aboutMe = [
 ### Academic Qualifications:
 - Verified International Academic Qualifications: [by World Education Services](https://www.credly.com/badges/cf69d1de-a6ef-4aef-bb91-91919a4f066f/linked_in_profile)
 - Bachelor of Science (BSc), International Relations and Affairs: [by Belas Artes - Brazil](https://www.belasartes.br/)
-- Masters degree in International Business: [by Red River College - Canada](https://www.rrc.ca/)
+- Master's degree in International Business: [by Red River College - Canada](https://www.rrc.ca/)
 - Diploma - Full Stack Developer: [by Lighthouse Labs - Canada](https://www.lighthouselabs.ca/en)
 
 
