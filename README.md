@@ -33,12 +33,12 @@ const aboutMe = [
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22r5vgja3ihulk6qnjyhyklmq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## My current certifications & licenses: <br>
-HTML [by Mimo](https://drive.google.com/file/d/1ju4QCXw0bTlufCBeZ41QgiCCQ5dCfLs9/view))
-Cyber Security Fundamentals [by IBM](https://www.credly.com/badges/492300e1-1c2d-4a2d-89fe-86ac6f2dc1e9/linked_in_profile)
-JavaScript [by codeacademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
-Project Management [by Alberta Royal College](https://drive.google.com/file/d/1Hs__MBor11JVu5tINZDTsdM8g1DcM30Y/view)
-Project Management Fundamentals [by IBM](https://www.credly.com/badges/4077f234-b0b9-452e-b54f-5141c5d9d299/linked_in_profile)
-Cyber Security: From Beginner to Exper(2023)-[by Udemy & Logix Academy](https://www.udemy.com/certificate/UC-369bd18e-6c21-4748-a3f6-88187065aab1/)
+HTML [by Mimo](https://drive.google.com/file/d/1ju4QCXw0bTlufCBeZ41QgiCCQ5dCfLs9/view))<br>
+Cyber Security Fundamentals [by IBM](https://www.credly.com/badges/492300e1-1c2d-4a2d-89fe-86ac6f2dc1e9/linked_in_profile)<br>
+JavaScript [by codeacademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/705dcb15de0da4dd9d9fc4f3274b430e)<br>
+Project Management [by Alberta Royal College](https://drive.google.com/file/d/1Hs__MBor11JVu5tINZDTsdM8g1DcM30Y/view)<br>
+Project Management Fundamentals [by IBM](https://www.credly.com/badges/4077f234-b0b9-452e-b54f-5141c5d9d299/linked_in_profile)<br>
+Cyber Security: From Beginner to Exper(2023)-[by Udemy & Logix Academy](https://www.udemy.com/certificate/UC-369bd18e-6c21-4748-a3f6-88187065aab1/)<br>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fmoscovo&show_icons=true&theme=radical)
