@@ -32,6 +32,9 @@ const aboutMe = [
 ## ⚡ What I'm listening to while I'm coding: <br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22r5vgja3ihulk6qnjyhyklmq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+## My current certifications & licenses: <br>
+[Cyber Security: From Beginner to Expert - by Udemy/Logix Academy](https://www.udemy.com/certificate/UC-369bd18e-6c21-4748-a3f6-88187065aab1/)  
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fmoscovo&show_icons=true&theme=radical)
 <br>
