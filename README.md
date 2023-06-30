@@ -31,13 +31,30 @@ const aboutMe = [
 ## ⚡ What I'm listening to while I'm coding: <br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22r5vgja3ihulk6qnjyhyklmq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## My current certifications & licenses: <br>
+## My current certifications & licenses:
+
+### Web Development:
 - HTML: [by Mimo](https://drive.google.com/file/d/1ju4QCXw0bTlufCBeZ41QgiCCQ5dCfLs9/view)
-- Cyber Security Fundamentals: [by IBM](https://www.credly.com/badges/492300e1-1c2d-4a2d-89fe-86ac6f2dc1e9/linked_in_profile)
 - JavaScript: [by Codecademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
+- Responsive Web Design: [by freeCodeCamp](https://www.freecodecamp.org/certification/Wolfs/responsive-web-design)
+
+### Cybersecurity:
+- Cyber Security Fundamentals: [by IBM](https://www.credly.com/badges/492300e1-1c2d-4a2d-89fe-86ac6f2dc1e9/linked_in_profile)
+- Cyber Security: From Beginner to Expert (2023): [by Udemy & Logix Academy](https://www.udemy.com/certificate/UC-369bd18e-6c21-4748-a3f6-88187065aab1/)
+- NSE 1 Network Security Associate: [by Fortinet](https://drive.google.com/file/d/1n7rziHfVyWiKvlk1Qj6BEIzJTu34RTdr/view)
+- Official (ISC)² Certified in Cybersecurity (CC): [by (ISC)²](https://drive.google.com/file/d/10Vr_SutChPHlAQeG2kw0I7HdcAeQ_9jW/view?usp=sharing)
+- (ISC)² Candidate: [by (ISC)²](https://www.credly.com/badges/3190c8a2-8612-46f9-9c7b-e3bbe3dd6963/public_url)
+
+### Project Management:
 - Project Management: [by Alberta Royal College](https://drive.google.com/file/d/1Hs__MBor11JVu5tINZDTsdM8g1DcM30Y/view)
 - Project Management Fundamentals: [by IBM](https://www.credly.com/badges/4077f234-b0b9-452e-b54f-5141c5d9d299/linked_in_profile)
-- Cyber Security: From Beginner to Expert (2023): [by Udemy & Logix Academy](https://www.udemy.com/certificate/UC-369bd18e-6c21-4748-a3f6-88187065aab1/)
+
+### Academic Qualifications:
+- Verified International Academic Qualifications: [by World Education Services](https://www.credly.com/badges/cf69d1de-a6ef-4aef-bb91-91919a4f066f/linked_in_profile)
+- Bachelor of Science (BSc), International Relations and Affairs: [by Belas Artes - Brazil](https://www.belasartes.br/)
+- Masters degree in International Business: [by Red River College - Canada](https://www.rrc.ca/)
+- Diploma - Full Stack Developer: [by Lighthouse Labs - Canada](https://www.lighthouselabs.ca/en)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fmoscovo&show_icons=true&theme=radical)
