@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Filipe, a passionate learner from Calgary - Canada. Welcome to my GitHub profile!
-I am transitioning careers to thrive in tech, I'm studying to become a Full Stack Developer and on the side, I'm a cybersecurity enthusiast.
+I am transitioning careers to thrive in tech, I'm studying to become a Full Stack Developer. I also love Cybersecurity and learning that on my free time. 
 
 ## 🚀 About Me
 const aboutMe = [
@@ -11,7 +11,7 @@ const aboutMe = [
   "4t 4 t1m3"]:
 
 - 🔭 I'm currently doing a coding boot camp. 
-- 🌱 I'm currently learning JS.
+- 🌱 I'm currently enhancing my JavaScript and CSS skills and in my free time, I'm studying to get CompTIA A+ certified. 
 - 👯 I'm looking to network! 
 - 📫 How to reach me: moscovo.developer@gmail.com
 
