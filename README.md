@@ -8,7 +8,7 @@ const aboutMe = [
   "b3com1ng",
   "4 d3v3lop3r",
   "0n3 l1n3",
-  "4t 4 t1m3"]:
+  "4t 4 t1m3"];
 
 - 🔭 I'm currently doing a coding boot camp. 
 - 🌱 I'm currently enhancing my JavaScript and CSS skills and in my free time, I'm studying to get CompTIA A+ certified. 
