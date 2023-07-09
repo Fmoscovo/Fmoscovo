@@ -38,7 +38,8 @@ const aboutMe = [
 - Responsive Web Design: [freeCodeCamp](https://www.freecodecamp.org/certification/Wolfs/responsive-web-design)
 - Code Foundations: [Codecademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/5b55e668646caa552f8e4d1d)
 - How to Code: [Codecademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/11a686a7fd57b8c214f7f92749388d42)
-
+## IT/Tech Foundation
+- Introduction to IT: [Codecademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/f8fcb12eaa0c4dddaa2ebc8cfb95b8e7)
 ### Cybersecurity:
 - Cyber Security Fundamentals: [IBM](https://www.credly.com/badges/492300e1-1c2d-4a2d-89fe-86ac6f2dc1e9/linked_in_profile)
 - Cyber Security: From Beginner to Expert (2023): [Udemy & Logix Academy](https://www.udemy.com/certificate/UC-369bd18e-6c21-4748-a3f6-88187065aab1)
