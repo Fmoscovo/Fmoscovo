@@ -40,7 +40,7 @@ const aboutMe = [
 ### Web Development:
 - HTML: [Mimo](https://drive.google.com/file/d/1ju4QCXw0bTlufCBeZ41QgiCCQ5dCfLs9/view)
 - JavaScript: [Codecademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
-- Responsive Web Design: [freeCodeCamp](https://www.freecodecamp.org/certification/Wolfs/responsive-web-design)
+- Responsive Web Design: [freeCodeCamp](https://www.freecodecamp.org/certification/Fmoscovo/responsive-web-design)
 - Code Foundations: [Codecademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/5b55e668646caa552f8e4d1d)
 - How to Code: [Codecademy](https://www.codecademy.com/profiles/Fmoscovo/certificates/11a686a7fd57b8c214f7f92749388d42)
 ## IT/Tech Foundation
