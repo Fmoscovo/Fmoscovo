@@ -10,8 +10,8 @@ const aboutMe = [
   "0n3 l1n3",
   "4t 4 t1m3"];
 
-- 🔭 I'm currently doing a coding boot camp. 
-- 🌱 I'm currently enhancing my JavaScript and CSS skills and in my free time, I'm studying to get CompTIA A+ certified. 
+- 🔭 I'm currently breathing a bit after a very intense 3month bootcamp at Lighthouse Labs.  
+- 🌱 I'm currently enhancing my Flutter and CSS skills and in my free time, I'm studying to get CompTIA A+ certified. 
 - 👯 I'm looking to network! 
 - 📫 How to reach me: moscovo.developer@gmail.com
 - My resume [flowcv](https://flowcv.com/resume/vdqqgwnslq)
