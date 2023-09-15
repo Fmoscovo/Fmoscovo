@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Filipe, a passionate learner from Calgary - Canada. Welcome to my GitHub profile!
-I am transitioning careers to thrive in tech, I'm studying to become a Full Stack Developer. I also love Cybersecurity and learning that on my free time. 
+I am transitioning careers to thrive in tech, I became a Full Stack Developer recently! I also love Cybersecurity and learning that on my free time. 
 
 ## 🚀 About Me
 const aboutMe = [
